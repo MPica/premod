@@ -1,5 +1,16 @@
 # Premod pipeline for Modern auction catalogues
 
+> Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+> 
+> This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+> 
+> [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
 ## About
 
 This pipeline was defined by Morgane Pica, design engineer in Digital Humanities, for Camille Mestdagh's ANR project, "OBJECTive". It is meant to extract an organized database from digitized 19<sup>th</sup> c. art object auction sales. The current README file contains information necessary for a handover of the pipeline, and will probably change before the end of the project.
