@@ -1,0 +1,20 @@
+entity in target DB,entity local id (if no entity in target DB),sameAs entity,definition,associated lemmas,left-hand context,right-hand context,group
+one.uri#id,123456789,another#id,"One definition, as fully documented as possible. Please do not use italics, broad letters or line breaks. I will implement this later, but for now we need only simple text.",one ; two ; three ; four,Will be tackled later.,Will be tackled later.,token
+,,,,,,,Token + children
+,,,,,,,from parent
+,,,,,,,from ancestor : sometoken
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+ ,,,,,,,

@@ -1,0 +1,22 @@
+# Lines beginning with a # sign will be ignored by the script.
+# you can use them to document things.
+
+# irrégulières
+
+https://gallica.bnf.fr/ark:/12148/bpt6k1240605w
+Vente Seillières 1890
+Vente Palais San Donato 1880
+
+# virgule ou point virgule et point final
+
+https://gallica.bnf.fr/ark:/12148/bpt6k5832623f
+https://gallica.bnf.fr/ark:/12148/bpt6k6472418s
+https://gallica.bnf.fr/ark:/12148/bpt6k1241257j
+
+# virgule et point final
+
+le pdf "Catalogue_vente Gansberg 1853.pdf"
+https://gallica.bnf.fr/ark:/12148/bpt6k380102k
+https://gallica.bnf.fr/ark:/12148/bpt6k1243878d
+https://gallica.bnf.fr/ark:/12148/bpt6k1240184s
+https://gallica.bnf.fr/ark:/12148/bpt6k214939z

@@ -1,0 +1,2 @@
+lemma,pos
+"One lemma per line in this column. These will not be used in the output database. (Keep this line, the script skips it.)","One POS key per line in this column. They have to match the syntactic keys used in the corpus. (Keep this line, the script skips it.)"
