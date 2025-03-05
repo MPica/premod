@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+            <respStmt>
+               <resp>Wrote the scripts permitting (1) the automatic download of images, (2) automatic transcription by PyTesseract, (3) assisted structuration of the transcription in TEI and (5) deduction of the text's keywords.</resp>
+               <persName>Morgane PICA</persName>
+               <orgName>Axe de Recherche en Histoire Numérique, in Laboratoire de Recherche Historique Rhône-Alpes (UMR 5190), Lyon, France</orgName>
+               <orgName>École Normale Supérieure de Lyon, France</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Wrote HT_CRISCO the scripts permitting (4) the linguistic analysis of the text: lemmas, part-of-speech and syntactic enrichment.</resp>
+               <persName>Rayan ZIANE</persName>
+               <orgName>Centre de Recherche Interlangues sur la Signification en COntexte (UR 4255), Université de Caen Normandie, France</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Automatic transcription</resp>
+               <orgName>pyTesseract</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl xml:id="source"/>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>
